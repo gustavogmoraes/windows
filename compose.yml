@@ -1,7 +1,7 @@
 version: "3"
 services:
   windows:
-    image: dockurr/windows
+    image: gustavogmoraes/windows
     container_name: windows
     environment:
       VERSION: "core11"
